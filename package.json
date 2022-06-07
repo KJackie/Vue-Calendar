@@ -1,0 +1,40 @@
+{
+  "name": "calendar-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "@vee-validate/rules": "^4.5.11",
+    "axios": "^0.27.2",
+    "bootstrap-vue": "^2.22.0",
+    "core-js": "^3.8.3",
+    "fullcalendar": "^3.10.2",
+    "jquery": "^3.5.1",
+    "moment": "^2.29.3",
+    "vee-validate": "^3.2.5",
+    "vee-validate-rules": "^0.1.20",
+    "vue": "^2.6.14",
+    "vue-ctk-date-time-picker": "^2.5.0",
+    "vue-full-calendar": "^4.0.0-1",
+    "vue-router": "^3.5.1",
+    "vuex": "^3.6.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.16",
+    "@babel/eslint-parser": "^7.12.16",
+    "@vue/cli-plugin-babel": "~5.0.0",
+    "@vue/cli-plugin-router": "~5.0.0",
+    "@vue/cli-plugin-vuex": "~5.0.0",
+    "@vue/cli-service": "~5.0.0",
+    "@vue/compiler-sfc": "^3.2.37",
+    "eslint": "^7.32.0",
+    "eslint-plugin-vue": "^8.0.3",
+    "sass": "^1.32.7",
+    "sass-loader": "^12.0.0",
+    "vue-template-compiler": "^2.6.14"
+  }
+}
